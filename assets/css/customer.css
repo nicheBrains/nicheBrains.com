@@ -1,0 +1,239 @@
+﻿.nB-BG-steps {
+    background-color: rgb(59, 142, 190, .7) !important;
+    border-radius: 25px
+}
+
+.bg-gradient {
+    background-color: rgba(59, 142, 190, .8) !important;
+    border-radius: 25px;
+    width: 100%
+}
+
+.video-fluid {
+    width: 100% !important;
+    height: auto !important;
+    opacity: 1
+}
+
+.iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    opacity: 1
+}
+
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+.nB-BodyText {
+    width: 100%;
+    font-size: 20px
+}
+
+.nB-headingText {
+    width: 100%;
+    padding: 15px 0;
+    color: #216e9a;
+    font-weight: 600;
+    font-size: 46px
+}
+
+@media (max-width:380px) {
+.nB-headingText {
+    
+    font-size:38px
+}
+}
+.nB-Blue {
+    color: #74bf22 !important
+}
+
+.nB-Green {
+    color: #7bcc21 !important
+}
+
+.nB-Gray {
+    color: #323232 !important
+}
+
+.nB-LinkButton {
+    font-size: 29px;
+    line-height: 29px;
+    padding: 16px;
+    border-radius: 10px;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: inline-block;
+    text-align: center;
+    background-image: linear-gradient(to right, #1c6ea4 0, #2388cb 50%, #144e75 100%);
+    border: 2px solid #1c6ea4;
+    color: #fafafa
+}
+
+.nB-LinkButton:hover {
+    text-decoration: none;
+    transform: scale(1);
+    background: #7bcc21;
+    background: -moz-linear-gradient(left, #7bcc21 0, #9aff29 50%, #71bc1e 100%);
+    background: -webkit-linear-gradient(left, #7bcc21 0, #9aff29 50%, #71bc1e 100%);
+    background: linear-gradient(to right, #7bcc21 0, #9aff29 50%, #71bc1e 100%);
+    border: 2px solid #7bcc21;
+    color: #000;
+    box-shadow: #000 5px 5px 15px 5px
+}
+
+.img_laptop {
+    background: url(../images/laptop.png) center center no-repeat;
+    background-size: contain;
+    width: 400px;
+    height: 240px;
+    display: inline-block
+}
+
+.img_digitalExperts {
+    background: url(../images/digitalExperts.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_microConsulting {
+    background: url(../images/microConsulting.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_valueDelivery {
+    background: url(../images/valueDelivery.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_fasterResult {
+    background: url(../images/fasterResult.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_fairPrice {
+    background: url(../images/fairPrice.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img-step {
+    background: url(../images/step.png) center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    max-height: 120px;
+    display: inline-block
+}
+
+.img-process-steps-1 {
+    background: url(../images/gear-customer-1.png) center center no-repeat;
+    background-size: contain;
+    background-position: -120px 10px
+}
+
+.img-process-steps-2 {
+    background: url(../images/gear-customer-2.png) center center no-repeat;
+    background-size: contain;
+    background-position: 100px 10px
+}
+
+.img-process-steps-3 {
+    background: url(../images/gear-customer-3.png) center center no-repeat;
+    background-size: contain;
+    background-position: -120px 50px
+}
+
+.nB-headerHeight {
+    line-height: 1.2em
+}
+
+.nB-Img-MinHeight {
+    min-height: 310px
+}
+
+.img_unlimitedBusiness {
+    background: url(../images/unlimitedOpportunites.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_feepayment {
+    background: url(../images/feePayment.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_thoughtLeaders {
+    background: url(../images/thoughtLeader.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_timeToFocus {
+    background: url(../images/timeToFocus.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img_enhanceAndExpand {
+    background: url(../images/enhanceAndExpand.png) center center no-repeat;
+    background-size: contain;
+    width: 432px;
+    height: 300px;
+    display: inline-block
+}
+
+.img-process-steps-maven1 {
+    background: url(../images/gear-maven-1.png) center center no-repeat;
+    background-size: contain;
+    background-position: -120px 10px
+}
+
+.img-process-steps-maven2 {
+    background: url(../images/gear-maven-2.png) center center no-repeat;
+    background-size: contain;
+    background-position: 100px 10px
+}
+
+.img-process-steps-maven3 {
+    background: url(../images/gear-maven-3.png) center center no-repeat;
+    background-size: contain;
+    background-position: -120px 50px
+}
+
+.newinnerimageheadings {
+    color: #216e9a;
+    font-size: 37px;
+    font-weight: 600
+}
